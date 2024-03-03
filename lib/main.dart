@@ -327,7 +327,7 @@ class _MyAppState extends State<MyApp> {
             borderSide: BorderSide.none,
           ),
           prefixIcon: const Icon(
-            Icons.search,
+            Icons.menu,
             color: Colors.black45,
           ),
           suffixIcon: Container(
